@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/innomatics7/static/css/main.d4215f0a.css",
+    "main.js": "/innomatics7/static/js/main.1de7b131.js",
+    "static/js/453.3e51356a.chunk.js": "/innomatics7/static/js/453.3e51356a.chunk.js",
+    "index.html": "/innomatics7/index.html",
+    "main.d4215f0a.css.map": "/innomatics7/static/css/main.d4215f0a.css.map",
+    "main.1de7b131.js.map": "/innomatics7/static/js/main.1de7b131.js.map",
+    "453.3e51356a.chunk.js.map": "/innomatics7/static/js/453.3e51356a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4215f0a.css",
+    "static/js/main.1de7b131.js"
+  ]
+}
